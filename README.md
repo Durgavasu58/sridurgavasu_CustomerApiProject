@@ -1,3 +1,5 @@
+Note:- share the ".env"  file of the project sensitive information securely
+
 Installation steps:
 
 1.create a virtual environment 
@@ -39,4 +41,5 @@ APIS:-
 
 6. http://127.0.0.1:8000/customer_records/by_month/may/
    
+
    
