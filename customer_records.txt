@@ -1,0 +1,13 @@
+Username,Phone Number,Call Duration (seconds),Call Type,Month,Week
+vasu,9876543210,120,Outgoing,march,week3
+ravi,1234567890,180,Outgoing,march,week4
+suresh,5678901234,90,Incoming,januray,week3
+siva,3456789012,300,Outgoing,march,week2
+sai,8901234567,240,Incoming,april,week4
+krsihna,8901234257,150,Outgoing,may,week2
+harish,2109876543,180,Incoming,may,week1
+ramya,2108876543,120,Outgoing,march,week2
+roshan,4567890123,60,Outgoing,may,week2
+don,4567890121,420,Incoming,june,week2
+
+
