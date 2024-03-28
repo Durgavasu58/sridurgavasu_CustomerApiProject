@@ -16,6 +16,9 @@ Installation steps:
 4. --> python manage.py makemigrations && python manage.py migrate
 5. create a superuser for admin interface
   --> python manage.py createsuperuser
+						Script
+   
+
 
 Added a text files of phonenumber and customerdata file in code repo need to import into the database, default db.sqlite3  i used
 For script i added CustomDjango Management Command
