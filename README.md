@@ -10,10 +10,11 @@ Installation steps:
   --> source env/bin/activate
 	
 2. clone or pull the repistory and in the project directory
-   run the command 
+   run the command
+   
    --> pip install -r requirements.txt
-3. --> python manage.py makemigrations && python manage.py migrate
-4. create a superuser for admin interface
+4. --> python manage.py makemigrations && python manage.py migrate
+5. create a superuser for admin interface
   --> python manage.py createsuperuser
 
 Added a text files of phonenumber and customerdata file in code repo need to import into the database, default db.sqlite3  i used
