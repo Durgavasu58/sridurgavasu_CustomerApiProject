@@ -1,4 +1,4 @@
-Note:- share the ".env"  file of the project sensitive information securely
+Note:- shared the ".env"  file of the project conifgurations in respective email  
 
 Installation steps:
 
