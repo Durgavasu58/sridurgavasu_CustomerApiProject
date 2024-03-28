@@ -9,7 +9,7 @@ Installation steps:
 	
   --> source env/bin/activate
 	
-2. clone or pull the repistory
+2. clone or pull the repistory and in the project directory
    run the command 
    --> pip install -r requirements.txt
 3. --> python manage.py makemigrations && python manage.py migrate
