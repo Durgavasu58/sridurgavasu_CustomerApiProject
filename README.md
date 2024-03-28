@@ -16,7 +16,9 @@ Installation steps:
 4. --> python manage.py makemigrations && python manage.py migrate
 5. create a superuser for admin interface
   --> python manage.py createsuperuser
+   
 						Script
+   
    
 
 
