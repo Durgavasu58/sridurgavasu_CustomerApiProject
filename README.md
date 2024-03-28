@@ -28,13 +28,15 @@ once the command is run data will be imported to database
 APIS:-
 
 1.http://127.0.0.1:8000/phone_numbers/   "Fetch al phonenumber records"
+
 2.http://127.0.0.1:8000/customer_records/  "Fetch al customer records"
 
 "Fetch records by phonenumber, week, month"
+
 3. http://127.0.0.1:8000/customer_records/by_phone_number/1234567890/
 
 4. http://127.0.0.1:8000/customer_records/by_week/week4/
-5. 
+
 6. http://127.0.0.1:8000/customer_records/by_month/may/
-7. 
+   
    
