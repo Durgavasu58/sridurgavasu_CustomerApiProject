@@ -2,8 +2,11 @@ Installation steps:
 
 1.create a virtual environment 
   --> pip install virtualenv
+	
   --> virtualenv "env"
+	
   --> source env/bin/activate
+	
 2. clone or pull the repistory
    run the command 
    --> pip install -r requirements.txt
